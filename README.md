@@ -28,8 +28,5 @@ Visual Studio Code, HTML, CSS, Node.js, MySQL, PHP, XAMPP, Diagrams.net
 # Data Model
 <img width="647" alt="image" src="https://github.com/krishnakanth699/QuizManagementSystem/assets/71022371/4287ed10-4ead-49b6-b709-f35a077d21e3">
 
-# FULL REPORT
-[QuizIT.pdf](https://github.com/krishnakanth699/QuizManagementSystem/files/11999034/20BCE0502_VL2022230504242_PE003.pdf)
-
 
 
